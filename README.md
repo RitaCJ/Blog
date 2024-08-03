@@ -50,3 +50,7 @@ Este projecto implmenta um sistema de blog utilizando Laravel como backend e Boo
 
 - `php artisan serve`
 - Acesse `http://localhost:8000` no navegador.
+
+## Skills 
+
+- Laravel, Bootstrap 
